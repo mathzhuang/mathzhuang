@@ -18,3 +18,9 @@ Hello,I'm an undergraduate student majoring in software engineering in Guohao co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathzhuang&theme=radical" alt="GitHub Streak" />
 </p>
 </div>
+
+### ☁️ My Contribution Graph
+
+[![Mathzhuang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mathzhuang&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Mathzhuang's Github Chart](https://ghchart.rshah.org/mathzhuang)
