@@ -23,4 +23,4 @@ Hello,I'm an undergraduate student majoring in software engineering in Guohao co
 
 [![Mathzhuang's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mathzhuang&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Mathzhuang's Github Chart](https://ghchart.rshah.org/mathzhuang)
+![Mathzhuang's Github Chart](https://ghchart.rshah.org/409ba5/mathzhuang)
