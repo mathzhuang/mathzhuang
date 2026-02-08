@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello,I'm an undergraduate student majoring in software engineering in Guohao college,Tongji university.
 
-
-<p align="left">
-  <img src="https://github-readme-stats.b-cdn.net/api?username=mathzhuang&show_icons=true&theme=radical" alt="mathzhuang's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.b-cdn.net/api/top-langs/?username=mathzhuang&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/mathzhuang?template=classic&base.header=0&isocalendar=1&languages=1&config.timezone=Asia%2FShanghai" />
+</div>
