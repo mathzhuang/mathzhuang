@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-<!--
-**mathzhuang/mathzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello,I'm an undergraduate student majoring in software engineering in Guohao college,Tongji university.
 
+- 🔭 I’m currently studying on Tongji Unversity.
+- 💬 Ask me about anything , HAPPY to meet friends!
+- 📫 How to reach me: ziyiizhuang@163.com
+
+
+<p align="center">Let's see my github visitors number!</p>
+
 <div align="center">
-  <img src="https://metrics.lecoq.io/mathzhuang?template=classic&base.header=0&isocalendar=1&languages=1&config.timezone=Asia%2FShanghai" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ycc250303.mathzhuang" alt="Visitors"/>
+</div>
+
+<div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathzhuang&theme=radical" alt="GitHub Streak" />
+</p>
 </div>
